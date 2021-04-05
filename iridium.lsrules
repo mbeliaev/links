@@ -2271,15 +2271,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1606051093.3478742,
-      "modificationDate" : 1606051093.3478742,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "consent.google.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1612993422.1222482,
       "modificationDate" : 1612993422.1222482,
       "owner" : "me",
@@ -3691,14 +3682,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1591454254.513387,
-      "modificationDate" : 1591454254.513387,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "translate.google.com"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1573991304.2807479,
       "modificationDate" : 1573991304.2807479,
       "owner" : "me",
@@ -4451,14 +4434,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1590919377.907625,
-      "modificationDate" : 1590919377.907625,
-      "owner" : "me",
-      "process" : "any",
-      "remote-hosts" : "smartlock.google.com"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1587585196.873342,
       "modificationDate" : 1587585196.873342,
       "owner" : "me",
@@ -4616,15 +4591,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "eu-west-3.amazonaws.com",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1606768821.6502562,
-      "modificationDate" : 1606768821.6502562,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.co.uk",
       "via" : "any"
     },
     {
@@ -6028,14 +5994,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "digitalartsonline.co.uk"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1582564596.0027909,
-      "modificationDate" : 1582564596.0027909,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.com.au"
     },
     {
       "action" : "deny",
@@ -7554,42 +7512,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "gocache.net",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1593283413.4680719,
-      "modificationDate" : 1593283413.4680719,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.cz",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1613321827.615608,
-      "modificationDate" : 1613321827.615608,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.no",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1593365859.181222,
-      "modificationDate" : 1593365859.181222,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.pl",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1593710314.6667571,
-      "modificationDate" : 1593710314.6667571,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.ru",
       "via" : "any"
     },
     {
@@ -9538,42 +9460,6 @@
     },
     {
       "action" : "deny",
-      "creationDate" : 1593195425.7119269,
-      "modificationDate" : 1593195425.7119269,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google-analytics.com",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1593195428.3384609,
-      "modificationDate" : 1593195428.3384609,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googlegroups.com",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1598344917.3186898,
-      "modificationDate" : 1598344917.3186898,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googleoptimize.com",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1597595556.674016,
-      "modificationDate" : 1597595556.674016,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googlesyndication.com",
-      "via" : "any"
-    },
-    {
-      "action" : "deny",
       "creationDate" : 1613633241.0039082,
       "modificationDate" : 1613633241.0039082,
       "owner" : "me",
@@ -10705,124 +10591,6 @@
       "process" : "any",
       "remote-domains" : "4lib.org",
       "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1615659974.097477,
-      "modificationDate" : 1615659974.097477,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "4put.ru",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1607631179.0129318,
-      "modificationDate" : 1607631179.0129318,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "5centscdn.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1608567716.9660659,
-      "modificationDate" : 1608567716.9660659,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "80000hours.org",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1615833564.4849892,
-      "modificationDate" : 1615833564.4849892,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "8x8.vc",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1603703184.427088,
-      "modificationDate" : 1603703184.427088,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "99percentinvisible.org",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1614146522.275593,
-      "modificationDate" : 1614146522.275593,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "9c9media.ca",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1613756148.7957768,
-      "modificationDate" : 1613756148.7957768,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "9nl.es",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1608282862.8598189,
-      "modificationDate" : 1608282862.8598189,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "9to5google.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1614156258.053684,
-      "modificationDate" : 1614156258.053684,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "9to5mac.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1614156262.2442741,
-      "modificationDate" : 1614156262.2442741,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "9to5terminal.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1605644215.0845771,
-      "modificationDate" : 1605644215.0845771,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "a-mo.net",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1601148703.4549642,
-      "modificationDate" : 1601148703.4549642,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "a2z.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1609927906.580178,
-      "modificationDate" : 1609927906.580178,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "aapsis.com",
-      "via" : "any"
-    },
     {
       "action" : "allow",
       "creationDate" : 1593352174.380439,
@@ -19749,24 +19517,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "goodpodcast.net",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1593185491.2447371,
-      "modificationDate" : 1593185491.2447371,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googleblog.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1597511860.8815579,
-      "modificationDate" : 1597511860.8815579,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googlepages.com",
       "via" : "any"
     },
     {
@@ -35701,15 +35451,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1593185480.1912398,
-      "modificationDate" : 1593185480.1912398,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "withgoogle.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1595178274.5939631,
       "modificationDate" : 1595178274.5939631,
       "owner" : "me",
@@ -36835,15 +36576,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1605961090.3559279,
-      "modificationDate" : 1605961090.3559279,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googlevideo.com",
-      "via" : "any"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1615627674.1818419,
       "modificationDate" : 1615627674.1818419,
       "owner" : "me",
@@ -37864,30 +37596,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "goeuro.de"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1586839624.3488278,
-      "modificationDate" : 1586839624.3488278,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.es"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1585662695.29985,
-      "modificationDate" : 1585662695.29985,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.ie"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1588344287.4818029,
-      "modificationDate" : 1588344287.4818029,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googleoptimize.com"
     },
     {
       "action" : "deny",
@@ -39536,46 +39244,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "go-mpulse.net"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1592560757.5014029,
-      "modificationDate" : 1592560757.5014029,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "google.de"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1592560742.1781321,
-      "modificationDate" : 1592560742.1781321,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googleapis.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1588514656.944284,
-      "modificationDate" : 1588514656.944284,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googleusercontent.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1592560740.013133,
-      "modificationDate" : 1592560740.013133,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googlevideo.com"
-    },
-    {
-      "action" : "deny",
-      "creationDate" : 1592560753.1731701,
-      "modificationDate" : 1592560753.1731701,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "gstatic.com"
     },
     {
       "action" : "deny",
@@ -43624,14 +43292,6 @@
       "owner" : "me",
       "process" : "any",
       "remote-domains" : "goodhousekeeping.com"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1580396022.806164,
-      "modificationDate" : 1580396022.806164,
-      "owner" : "me",
-      "process" : "any",
-      "remote-domains" : "googlecode.com"
     },
     {
       "action" : "allow",

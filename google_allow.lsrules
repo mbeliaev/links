@@ -1,0 +1,211 @@
+{
+  "description" : "google_allow",
+  "name" : "google",
+  "rules" : [
+  {
+    "action" : "allow",
+    "creationDate" : 1606051093.3478742,
+    "modificationDate" : 1606051093.3478742,
+    "owner" : "me",
+    "process" : "any",
+    "remote-hosts" : "consent.google.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1591454254.513387,
+    "modificationDate" : 1591454254.513387,
+    "owner" : "me",
+    "process" : "any",
+    "remote-hosts" : "translate.google.com"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1590919377.907625,
+    "modificationDate" : 1590919377.907625,
+    "owner" : "me",
+    "process" : "any",
+    "remote-hosts" : "smartlock.google.com"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1606768821.6502562,
+    "modificationDate" : 1606768821.6502562,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.co.uk",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1582564596.0027909,
+    "modificationDate" : 1582564596.0027909,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.com.au"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1593283413.4680719,
+    "modificationDate" : 1593283413.4680719,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.cz",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1613321827.615608,
+    "modificationDate" : 1613321827.615608,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.no",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1593365859.181222,
+    "modificationDate" : 1593365859.181222,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.pl",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1593710314.6667571,
+    "modificationDate" : 1593710314.6667571,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.ru",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1593195425.7119269,
+    "modificationDate" : 1593195425.7119269,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google-analytics.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1593195428.3384609,
+    "modificationDate" : 1593195428.3384609,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googlegroups.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1598344917.3186898,
+    "modificationDate" : 1598344917.3186898,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googleoptimize.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1597595556.674016,
+    "modificationDate" : 1597595556.674016,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googlesyndication.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1593185491.2447371,
+    "modificationDate" : 1593185491.2447371,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googleblog.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1597511860.8815579,
+    "modificationDate" : 1597511860.8815579,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googlepages.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1605961090.3559279,
+    "modificationDate" : 1605961090.3559279,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googlevideo.com",
+    "via" : "any"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1586839624.3488278,
+    "modificationDate" : 1586839624.3488278,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.es"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1585662695.29985,
+    "modificationDate" : 1585662695.29985,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.ie"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1588344287.4818029,
+    "modificationDate" : 1588344287.4818029,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googleoptimize.com"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1592560757.5014029,
+    "modificationDate" : 1592560757.5014029,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "google.de"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1592560742.1781321,
+    "modificationDate" : 1592560742.1781321,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googleapis.com"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1588514656.944284,
+    "modificationDate" : 1588514656.944284,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googleusercontent.com"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1592560753.1731701,
+    "modificationDate" : 1592560753.1731701,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "gstatic.com"
+  },
+  {
+    "action" : "allow",
+    "creationDate" : 1580396022.806164,
+    "modificationDate" : 1580396022.806164,
+    "owner" : "me",
+    "process" : "any",
+    "remote-domains" : "googlecode.com"
+  },
+  ]
+}
