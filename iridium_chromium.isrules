@@ -4621,7 +4621,7 @@
       "via" : "any"
     },
     {
-      "action" : "allow",
+      "action" : "deny",
       "creationDate" : 1616157720.8548989,
       "modificationDate" : 1616157720.8548989,
       "owner" : "me",
@@ -4675,7 +4675,7 @@
       "via" : "any"
     },
     {
-      "action" : "allow",
+      "action" : "deny",
       "creationDate" : 1606829890.4188418,
       "modificationDate" : 1606829890.4188418,
       "owner" : "me",
@@ -4756,7 +4756,7 @@
       "via" : "any"
     },
     {
-      "action" : "allow",
+      "action" : "deny",
       "creationDate" : 1603374924.1812479,
       "modificationDate" : 1603374924.1812479,
       "owner" : "me",
@@ -4792,7 +4792,7 @@
       "via" : "any"
     },
     {
-      "action" : "allow",
+      "action" : "deny",
       "creationDate" : 1616422239.755074,
       "modificationDate" : 1616422239.755074,
       "owner" : "me",
@@ -4900,7 +4900,7 @@
       "via" : "any"
     },
     {
-      "action" : "allow",
+      "action" : "deny",
       "creationDate" : 1611749029.232815,
       "modificationDate" : 1611749029.232815,
       "owner" : "me",
@@ -5341,7 +5341,7 @@
       "via" : "any"
     },
     {
-      "action" : "allow",
+      "action" : "deny",
       "creationDate" : 1603704837.99946,
       "modificationDate" : 1603704837.99946,
       "owner" : "me",
@@ -51137,6 +51137,2682 @@
       "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
       "protocol" : "udp",
       "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "d3fw5vlhllyvee.cloudfront.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "dokumfe7mps0i.cloudfront.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "embedwistia-a.akamaihd.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "d10lpsik1i8c69.cloudfront.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "d2vxvnufz8f5c5.cloudfront.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "da7xgjtj801h2.cloudfront.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "db0nus869y26v.cloudfront.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "s3-us-west-1.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "s3-us-west-2.amazonaws.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "guim.co.uk"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "eu-central-1.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "s3-us-west-2.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1586622706.5283818,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "s3.amazonaws.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "vit.ac.in"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "algolia.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "algolianet.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "altmetric.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "apester.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "api64.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "appveyor.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "bootstrapcdn.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "braintreegateway.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "consensu.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "cookielaw.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ddos-guard.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "dilruwha.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "disqus.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "do-not-tracker.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "eagleapi.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "eff.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "els-cdn.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "equest.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "eviltracker.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "fastly.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "figshare.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "firstpartysimulator.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "firstpartysimulator.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "foloatoo.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "fury.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "futurecdn.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "gearbest.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "glassdoor.ca"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "glassdoor.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "jivosite.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "jquery.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "jsdelivr.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "jwpcdn.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "jwplatform.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "kkdvvaonvkmll.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "libsegny.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mailchimp.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pegloang.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "placehold.it"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "polyfill.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pressidium.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "propellerclick.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ravenjs.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "readcube.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ripe.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "rkdms.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "robinlinus.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "seaofads.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "shinyapps.io"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "stazumik.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "t1shopper.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "timeincuk.net"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "tmpwebeng.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "trackersimulator.org"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "travis-ci.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "vdo.ai"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "whatleaks.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikbpyexkw.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "yacurlik.com"
+    },
+    {
+      "action" : "deny",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1586622750.674165,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "yahoo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "33travel.info"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "abine.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "acs.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "adminsub.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "airbnb.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "alamy.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "alchetron.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "allaboutcareers.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "alternativeto.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "aon.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1576669382.9800129,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "apple.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "arte.tv"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "aspnetcdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "auditmypc.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "aviasales.ru"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "avs.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "bioimagecomputing.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "bitdefender.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "blakeschool.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "brave.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "bravesoftware.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "bretthard.in"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "browserleaks.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "btcmanager.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "bugsnag.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "chatsecure.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "clarivate.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1617621345.869041,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "cloudflare.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "cloudinary.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "cluefulapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "coronabrady.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "creativecommons.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "crestcomleadership.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "csbdresden.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1617621342.5952492,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "deepl.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "deloitte.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "deloitte.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "deutsche-bank.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "developers.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "doi.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "domaintools.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "donottrack-doc.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "drift.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "driftt.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "duckduckgo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ebay-kleinanzeigen.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ebayimg.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "englishforums.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "findip-address.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "fontawesome.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "fonts.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "force.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "formstack.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "fz-borstel.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "giphy.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1586622756.0135651,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "github.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "github.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "githubassets.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1586622756.8537679,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "githubusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "golden.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "goodreads.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "governmentjobs.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "gr-assets.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "gravatar.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "greatsampleresume.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "herokuapp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "hrsd.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "hsforms.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "hsforms.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "hubspot.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "hubspot.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "idgesg.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "imdb.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "imgix.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "imgur.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "indeed.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "infogalactic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "insight-database.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "insight-group.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "intercom.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "intercomcdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ionicframework.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ipaddress.is"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ipinfo.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "joyofandroid.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "kinja-img.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "kinja-static.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "latextemplates.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "licdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "licensebuttons.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "lifehacker.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "lifewire.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "lithium.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "loadshare.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "londontrustmedia.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "lookip.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "lovd.nl"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "luckyorange.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "macdrifter.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "macnative.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "macworld.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mapbox.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "maptq.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mathjax.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "maxcdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mckinsey.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mckinsey.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "media-imdb.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "medium.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mesaaz.gov"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mindbodygreen.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mindvalley.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mixdrop.co"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "moesalih.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "movies.cab"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "mpg.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "myfonts.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "nanorep.co"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "nature.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "naukri.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "newport.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "nih.gov"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "nordcdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "nordvpn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1586622757.556052,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "obdev.at"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "observablehq.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "observableusercontent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "omicsonline.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "openstreetmap.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "openvpn.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "oppia.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "orsay.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "osmand.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ostsaechsische-sparkasse-dresden.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "overleaf.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "paygarden.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "paypal.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "paypalobjects.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pdfmerge.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pencilcode.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "peterborgapps.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pgcareers.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pgwebtools.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "plot.ly"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "plotly.host"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "polyfra.me"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "privateinternetaccess.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "producthunt.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "protonmail.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pubfacts.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "pubmed.gov"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "putlocker.digital"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "qlik.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "quantopian.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "qz.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "recaptcha.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "restoreprivacy.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "retaildoc.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "reviversoft.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "salary.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "salesforceliveagent.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sci-hub.tw"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sciencedirect.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sciencedirectassets.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "scoopwhoop.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sharelatex.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sigmaaldrich.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "speedguide.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "springer.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "springernature.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ssl-images-amazon.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sstatic.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "stackexchange.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "stackoverflow.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "staticworld.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "stripe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "strongswan.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "strongvpn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "study.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "successfactors.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "successfactors.eu"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sudoproxy.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "sudoproxy.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "superuser.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "switchtoamac.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "talentbrew.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "taleo.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "tatamemorialcentre.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "techentice.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "techwalla.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "techwallacdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "theguardian.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "thereaderwiki.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "thoughtco.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ti-media.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "tomsguide.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "toronto.edu"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "torproject.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "tracemyip.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "trustedreviews.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "trustedshops.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "tutanota.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "tuxhr.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "twitch.tv"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "typekit.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "uni-jena.de"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "usemessages.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "disabled" : true,
+      "modificationDate" : 1586622761.0971699,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "viber.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "vice.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "webofknowledge.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "whatismyip.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "whois.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "whoisip.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikihow.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikilinks.net"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikimedia.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikinews.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1617621330.3706679,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikipedia.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikiquote.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wikiversity.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wired.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wireshark.org"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wistia.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wokinfo.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wordpress.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "wp.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "xda-cdn.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "xda-developers.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "xing-share.com"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "ya.ru"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "yandex.net"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "yandex.ru"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "yastatic.net"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1573138273.416507,
+      "modificationDate" : 1573138273.416507,
+      "owner" : "any",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1606051093.3478742,
+      "modificationDate" : 1606051093.3478742,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "consent.google.com",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1591454254.513387,
+      "modificationDate" : 1591454254.513387,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "translate.google.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1590919377.907625,
+      "modificationDate" : 1590919377.907625,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-hosts" : "smartlock.google.com"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1606768821.6502562,
+      "modificationDate" : 1606768821.6502562,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.co.uk",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1582564596.0027909,
+      "modificationDate" : 1582564596.0027909,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.com.au"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1593283413.4680719,
+      "modificationDate" : 1593283413.4680719,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.cz",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1613321827.615608,
+      "modificationDate" : 1613321827.615608,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.no",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1593365859.181222,
+      "modificationDate" : 1593365859.181222,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.pl",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1593710314.6667571,
+      "modificationDate" : 1593710314.6667571,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.ru",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1593195425.7119269,
+      "modificationDate" : 1593195425.7119269,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google-analytics.com",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1593195428.3384609,
+      "modificationDate" : 1593195428.3384609,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googlegroups.com",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1598344917.3186898,
+      "modificationDate" : 1598344917.3186898,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googleoptimize.com",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1597595556.674016,
+      "modificationDate" : 1597595556.674016,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googlesyndication.com",
+      "via" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1593185491.2447371,
+      "modificationDate" : 1593185491.2447371,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googleblog.com",
+      "via" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1597511860.8815579,
+      "modificationDate" : 1597511860.8815579,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googlepages.com",
+      "via" : "any"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1605961090.3559279,
+      "modificationDate" : 1605961090.3559279,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googlevideo.com",
+      "via" : "any"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1586839624.3488278,
+      "modificationDate" : 1586839624.3488278,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.es"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1585662695.29985,
+      "modificationDate" : 1585662695.29985,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.ie"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1588344287.4818029,
+      "modificationDate" : 1588344287.4818029,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googleoptimize.com"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1592560757.5014029,
+      "modificationDate" : 1592560757.5014029,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "google.de"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1592560742.1781321,
+      "modificationDate" : 1592560742.1781321,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googleapis.com"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1588514656.944284,
+      "modificationDate" : 1588514656.944284,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googleusercontent.com"
+    },
+    {
+      "action" : "ask",
+      "creationDate" : 1592560753.1731701,
+      "modificationDate" : 1592560753.1731701,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "gstatic.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1580396022.806164,
+      "modificationDate" : 1580396022.806164,
+      "owner" : "me",
+      "process" : "\/Applications\/Chromium.app\/Contents\/MacOS\/Chromium",
+      "remote-domains" : "googlecode.com"
     },
   ]
 }
